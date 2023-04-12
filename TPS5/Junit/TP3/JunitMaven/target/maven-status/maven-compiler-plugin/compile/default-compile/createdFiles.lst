@@ -1,0 +1,8 @@
+poste/Recommandation.class
+poste/SacPostal.class
+poste/Colis.class
+poste/ColisExpress.class
+poste/ColisExpressInvalide.class
+poste/Lettre.class
+poste/ObjetPostal.class
+poste/MainPoste.class

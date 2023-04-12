@@ -1,0 +1,14 @@
+Exo1
+1. Défini sur automates finis
+
+2. Non car emboitement de structures non borné
+
+3. grammaire algebrique, induction, que des symboles terminaux à la fin.
+
+4.	Optionalité: [], 
+	Union : | 
+	{} Il faut en choisir un 
+	multiplicité: ... 
+	terminateur: ;
+
+5.dr

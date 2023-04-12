@@ -1,0 +1,96 @@
+Parameter A B C : Prop.
+Require Export Classical.
+
+
+Theorem ex1_1 : A->B->A.
+Proof.
+  intros.
+  assumption.
+Qed.
+
+Theorem ex1_2: (A->B->C)->(A->B)->A->C.
+Proof.
+  intros.
+  apply H, H0, H1.
+  assumption.
+Qed.
+
+Theorem ex1_3: A/\B->B.
+Proof.
+  intro.
+  elim H.
+  intros.
+  assumption.
+Qed.
+
+Theorem ex1_4: B->A\/B.
+Proof.
+  intro.
+  right.
+  assumption.
+Qed.
+
+Theorem ex1_5: (A\/B)->(A->C)->(B->C)->C.
+Proof.
+  intros.
+  elim H.
+  intros.
+  apply H0.
+  assumption.
+  intro.
+  apply H1.
+  assumption.
+Qed.
+
+Theorem ex1_6:A->False->~A.
+Proof.
+  intros.
+  auto.
+Qed.
+
+Theorem ex1_7: False->A.
+Proof.
+  intro.
+  elim H.
+Qed.
+
+Theorem ex1_8: (A<->B)->A->B.
+Proof.
+  intros.
+  elim H.
+  intros.
+  apply H1.
+  assumption.
+Qed.
+
+Theorem ex1_9: (A<->B)->B->A.
+Proof.
+  intros.
+  elim H.
+  intros.
+  apply H2.
+  assumption.
+Qed.
+
+Theorem ex1_10: (A->B)->(B->A)->(A<->B).
+Proof.
+  intros.
+  split.
+  assumption.
+  assumption.
+Qed.
+
+Parameter E:Set.
+Parameter P Q : E->Prop.
+
+Theorem ex2_1: forall x: E, P x -> exists y: E, P y \/ Q y.
+Proof.
+  intros.
+  exists x.
+  left.
+  assumption.
+Qed.
+
+Theorem ex2_2: (exists x: E, P x \/ Q x) -> (exists x: E, P x) \/ (exists x: E, Q x).
+Proof.
+  

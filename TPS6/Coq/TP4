@@ -1,0 +1,33 @@
+Inductive isFact : nat -> nat -> Prop :=
+  | isFact_0 : isFact 0 1
+  | isFact_S : forall n fn : nat,
+    isFact n fn -> isFact (S n) (fn*(S n)).
+
+Fixpoint fact (n : nat) : nat :=
+  match n with
+  | 0 => 1
+  | (S n) => (fact n) * (S n)
+  end.
+
+Compute fact 2.
+
+Require Import FunInd.
+Functional Scheme fact_ind := Induction for fact Sort Prop.
+
+Print fact_ind.
+Print fact_equation.
+
+Lemma fact_sound:
+  forall (n:nat) (res:nat), (fact n) = res -> (isFact n res).
+Proof.
+induction n.
+intros.
+rewrite <- H.
+apply isFact_0.
+intros.
+rewrite <- H.
+simpl.
+apply isFact_S.
+apply IHn.
+reflexivity.
+Qed.

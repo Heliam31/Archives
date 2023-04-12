@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TP3.JunitMaven.AppTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.028 s <<< FAILURE! - in TP3.JunitMaven.AppTest
+testVolume  Time elapsed: 0.005 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <0.025359999558422715> but was: <0.005>
+	at TP3.JunitMaven.AppTest.testVolume(AppTest.java:62)
+

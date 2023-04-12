@@ -1,0 +1,556 @@
+2021-10-19 08:18:40,673 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-10-19 08:19:10,128 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: TP3:JunitMaven:0.0.1-SNAPSHOT @ /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/pom.xml.
+2021-10-19 08:19:10,663 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 08:19:10,666 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 08:19:10,673 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 08:19:10,674 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 08:19:11,588 [Worker-1: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.8.1/junit-platform-engine-1.8.1-sources.jar
+2021-10-19 08:19:11,646 [Worker-1: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.8.1/junit-platform-engine-1.8.1-sources.jar
+2021-10-19 08:19:11,651 [Worker-11: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: TP3:JunitMaven:0.0.1-SNAPSHOT @ /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/pom.xml.
+2021-10-19 08:19:11,666 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.platform:junit-platform-engine:1.8.1
+2021-10-19 08:19:11,754 [Worker-1: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.8.1/junit-platform-commons-1.8.1-sources.jar
+2021-10-19 08:19:11,794 [Worker-1: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.8.1/junit-platform-commons-1.8.1-sources.jar
+2021-10-19 08:19:11,808 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.platform:junit-platform-commons:1.8.1
+2021-10-19 08:19:11,954 [Worker-1: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2-sources.jar
+2021-10-19 08:19:11,989 [Worker-1: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2-sources.jar
+2021-10-19 08:19:12,004 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apiguardian:apiguardian-api:1.1.2
+2021-10-19 08:19:12,563 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 08:19:12,563 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 08:19:12,564 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 08:19:12,564 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 08:19:51,992 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 08:19:51,993 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 08:19:51,996 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 08:19:51,996 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 08:28:11,393 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 08:28:11,395 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 08:28:11,396 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 08:28:11,397 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 08:28:26,524 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 08:28:26,526 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 08:28:26,528 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 08:28:26,528 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 08:30:18,795 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 08:30:18,798 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 08:30:18,801 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 08:30:18,802 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 08:30:56,753 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 08:30:56,753 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 08:30:56,755 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 08:30:56,756 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 08:33:33,656 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2021-10-19 08:34:24,321 [Worker-21: Launching JunitMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven
+2021-10-19 08:34:24,341 [Worker-21: Launching JunitMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2021-10-19 08:38:48,271 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 08:38:48,273 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 08:38:48,275 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 08:38:48,317 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 08:55:10,344 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 08:55:10,345 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 08:55:10,348 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 08:55:10,348 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 09:07:43,739 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 09:07:43,742 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 09:07:43,744 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 09:07:43,745 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 09:08:30,432 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 09:08:30,433 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 09:08:30,435 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 09:08:30,435 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 09:09:07,902 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 09:09:07,904 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 09:09:07,907 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 09:09:07,907 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 09:09:50,062 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 09:09:50,063 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 09:09:50,064 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 09:09:50,064 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 09:10:16,508 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 09:10:16,509 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 09:10:16,510 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 09:10:16,510 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 09:11:01,096 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 09:11:01,097 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 09:11:01,098 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 09:11:01,098 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 09:16:48,728 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 09:16:48,730 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 09:16:48,731 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 09:16:48,731 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 09:16:49,768 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 09:16:49,770 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 09:16:49,772 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 09:16:49,772 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 09:17:11,070 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 09:17:11,072 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 09:17:11,072 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 09:17:11,072 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 09:17:36,761 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 09:17:36,763 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 09:17:36,764 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 09:17:36,764 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 09:17:59,775 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2021-10-19 09:17:59,813 [Worker-37: Launching JunitMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven
+2021-10-19 09:17:59,814 [Worker-37: Launching JunitMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2021-10-19 09:18:15,937 [Worker-39: Launching Executing test in _home_e20180003950_Bureau_HAI501I_TP3_JunitMaven_JunitMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven
+2021-10-19 09:18:15,938 [Worker-39: Launching Executing test in _home_e20180003950_Bureau_HAI501I_TP3_JunitMaven_JunitMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2021-10-19 09:18:18,128 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 09:18:18,130 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 09:18:18,134 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 09:18:18,135 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 09:31:45,997 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 09:31:45,998 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 09:31:46,001 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 09:31:46,001 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:04:25,585 [Worker-45: Launching JunitMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven
+2021-10-19 10:04:25,587 [Worker-45: Launching JunitMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2021-10-19 10:18:05,823 [Worker-48: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: TP3:JunitMaven:0.0.1-SNAPSHOT @ /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/pom.xml.
+2021-10-19 10:18:05,829 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit:jar:5.8.1 is missing, no dependency information available
+2021-10-19 10:18:06,193 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:18:06,194 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:18:06,197 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:18:06,198 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:18:06,976 [Worker-52: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit:jar:5.8.1 is missing, no dependency information available
+2021-10-19 10:18:07,258 [Worker-52: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit/5.8.1/junit-5.8.1-sources.jar
+2021-10-19 10:18:07,272 [Worker-52: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.junit.jupiter:junit:5.8.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.junit.jupiter:junit:jar:sources:5.8.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-10-19 10:18:07,347 [Worker-52: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2-sources.jar
+2021-10-19 10:18:07,438 [Worker-52: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2-sources.jar
+2021-10-19 10:18:07,483 [Worker-52: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.13.2
+2021-10-19 10:18:08,275 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:18:08,276 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:18:08,278 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:18:08,278 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:18:08,807 [Worker-51: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit/5.8.1/junit-5.8.1-javadoc.jar
+2021-10-19 10:18:08,820 [Worker-51: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.junit.jupiter:junit:5.8.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.junit.jupiter:junit:jar:javadoc:5.8.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-10-19 10:18:11,797 [Worker-53: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: TP3:JunitMaven:0.0.1-SNAPSHOT @ /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/pom.xml.
+2021-10-19 10:18:12,213 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:18:12,215 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:18:12,218 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:18:12,220 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:18:13,088 [Worker-51: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter/5.8.1/junit-jupiter-5.8.1-sources.jar
+2021-10-19 10:18:13,154 [Worker-51: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter/5.8.1/junit-jupiter-5.8.1-sources.jar
+2021-10-19 10:18:13,172 [Worker-51: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter:5.8.1
+2021-10-19 10:18:13,251 [Worker-51: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.8.1/junit-jupiter-api-5.8.1-sources.jar
+2021-10-19 10:18:13,327 [Worker-51: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.8.1/junit-jupiter-api-5.8.1-sources.jar
+2021-10-19 10:18:13,350 [Worker-51: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter-api:5.8.1
+2021-10-19 10:18:13,427 [Worker-51: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-params/5.8.1/junit-jupiter-params-5.8.1-sources.jar
+2021-10-19 10:18:13,481 [Worker-51: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-params/5.8.1/junit-jupiter-params-5.8.1-sources.jar
+2021-10-19 10:18:13,497 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:18:13,497 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:18:13,498 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:18:13,499 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:18:13,505 [Worker-51: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter-params:5.8.1
+2021-10-19 10:18:13,583 [Worker-51: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.8.1/junit-jupiter-engine-5.8.1-sources.jar
+2021-10-19 10:18:13,683 [Worker-51: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.8.1/junit-jupiter-engine-5.8.1-sources.jar
+2021-10-19 10:18:13,699 [Worker-51: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter-engine:5.8.1
+2021-10-19 10:18:14,728 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:18:14,730 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:18:14,731 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:18:14,733 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:19:05,237 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:19:05,238 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:19:05,240 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:19:05,242 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:19:21,241 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:19:21,243 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:19:21,245 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:19:21,247 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:19:45,873 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2021-10-19 10:19:45,905 [Worker-53: Launching JunitMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven
+2021-10-19 10:19:45,906 [Worker-53: Launching JunitMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2021-10-19 10:20:51,055 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:20:51,057 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:20:51,061 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:20:51,061 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:20:52,121 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:20:52,123 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:20:52,125 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:20:52,125 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:20:59,758 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:20:59,760 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:20:59,762 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:20:59,762 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:21:29,891 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:21:29,892 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:21:29,894 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:21:29,894 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:22:19,346 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:22:19,349 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:22:19,353 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:22:19,353 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:24:28,832 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:24:28,833 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:24:28,836 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:24:28,837 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:25:33,278 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:25:33,293 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:25:33,305 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:25:33,305 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:25:52,034 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:25:52,037 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:25:52,071 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:25:52,071 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:26:03,702 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:26:03,708 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:26:03,726 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:26:03,726 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:26:20,197 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:26:20,199 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:26:20,201 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:26:20,202 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:26:21,216 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:26:21,218 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:26:21,224 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:26:21,224 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:26:46,334 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:26:46,335 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:26:46,338 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:26:46,338 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:27:05,179 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:27:05,180 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:27:05,184 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:27:05,185 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:27:38,963 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:27:38,965 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:27:38,969 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:27:38,969 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:28:19,684 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:28:19,687 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:28:19,691 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:28:19,691 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:28:33,319 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:28:33,321 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:28:33,324 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:28:33,324 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:29:19,908 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:29:19,910 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:29:19,912 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:29:19,912 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:29:50,456 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:29:50,457 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:29:50,460 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:29:50,460 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:30:00,354 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:30:00,357 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:30:00,360 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:30:00,361 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:30:20,272 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:30:20,275 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:30:20,278 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:30:20,278 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:30:26,335 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:30:26,336 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:30:26,339 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:30:26,339 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:30:30,424 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:30:30,426 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:30:30,430 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:30:30,430 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:30:45,372 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:30:45,374 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:30:45,376 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:30:45,376 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:30:46,435 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:30:46,438 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:30:46,440 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:30:46,440 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:30:57,535 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:30:57,536 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:30:57,538 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:30:57,538 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:31:23,185 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:31:23,188 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:31:23,192 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:31:23,192 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:32:04,676 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:32:04,677 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:32:04,680 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:32:04,680 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:32:19,456 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:32:19,457 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:32:19,459 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:32:19,459 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:32:20,757 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:32:20,759 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:32:20,761 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:32:20,761 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:33:34,434 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:33:34,437 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:33:34,441 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:33:34,441 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:35:21,609 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:35:21,611 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:35:21,614 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:35:21,614 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:35:39,490 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:35:39,492 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:35:39,495 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:35:39,495 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:36:13,505 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:36:13,507 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:36:13,511 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:36:13,511 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:36:51,824 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:36:51,825 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:36:51,828 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:36:51,828 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:37:03,221 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:37:03,222 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:37:03,226 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:37:03,226 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:37:08,155 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:37:08,157 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:37:08,161 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:37:08,161 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:37:19,936 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:37:19,939 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:37:19,941 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:37:19,941 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:38:06,570 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:38:06,572 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:38:06,576 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:38:06,576 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:38:10,129 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:38:10,130 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:38:10,133 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:38:10,133 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:38:35,770 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:38:35,772 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:38:35,775 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:38:35,775 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:38:58,287 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:38:58,288 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:38:58,292 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:38:58,292 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:39:02,232 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:39:02,233 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:39:02,235 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:39:02,235 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:39:34,690 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:39:34,692 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:39:34,694 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:39:34,694 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:39:55,548 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:39:55,550 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:39:55,552 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:39:55,552 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:40:07,864 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:40:07,865 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:40:07,868 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:40:07,868 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:40:12,894 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:40:12,896 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:40:12,899 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:40:12,900 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:40:46,522 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:40:46,524 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:40:46,528 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:40:46,528 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:40:56,076 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:40:56,079 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:40:56,083 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:40:56,083 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:41:30,514 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:41:30,514 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:41:30,516 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:41:30,516 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:41:38,790 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:41:38,792 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:41:38,794 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:41:38,794 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:41:42,676 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:41:42,677 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:41:42,680 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:41:42,680 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:41:58,292 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:41:58,295 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:41:58,298 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:41:58,299 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:42:03,838 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:42:03,840 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:42:03,843 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:42:03,843 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:42:54,735 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:42:54,735 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:42:54,738 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:42:54,738 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:43:10,364 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:43:10,367 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:43:10,371 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:43:10,371 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:43:24,194 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:43:24,196 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:43:24,200 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:43:24,200 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:43:40,329 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:43:40,330 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:43:40,332 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:43:40,332 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:43:46,439 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:43:46,440 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:43:46,443 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:43:46,443 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:44:06,474 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:44:06,475 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:44:06,478 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:44:06,478 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:44:15,780 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:44:15,784 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:44:15,786 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:44:15,786 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:44:24,485 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:44:24,487 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:44:24,490 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:44:24,490 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:44:46,096 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:44:46,097 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:44:46,100 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:44:46,100 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:45:55,376 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:45:55,379 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:45:55,381 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:45:55,381 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:46:04,091 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:46:04,093 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:46:04,094 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:46:04,094 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:46:07,921 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:46:07,923 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:46:07,925 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:46:07,925 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:46:14,331 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:46:14,333 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:46:14,337 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:46:14,337 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:46:32,950 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:46:32,951 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:46:32,955 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:46:32,955 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:46:38,416 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2021-10-19 10:46:38,469 [Worker-62: Launching JunitMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven
+2021-10-19 10:46:38,471 [Worker-62: Launching JunitMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2021-10-19 10:47:09,918 [Worker-63: Launching Executing test in _home_e20180003950_Bureau_HAI501I_TP3_JunitMaven_JunitMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven
+2021-10-19 10:47:09,919 [Worker-63: Launching Executing test in _home_e20180003950_Bureau_HAI501I_TP3_JunitMaven_JunitMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2021-10-19 10:47:13,372 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:47:13,375 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:47:13,375 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:47:13,377 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:51:12,576 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2021-10-19 10:51:25,385 [Worker-67: Launching JunitMaven (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven
+2021-10-19 10:51:25,386 [Worker-67: Launching JunitMaven (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2021-10-19 10:51:53,559 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:51:53,561 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:51:53,565 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:51:53,565 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:51:59,758 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:51:59,761 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:51:59,764 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:51:59,764 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:52:04,730 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2021-10-19 10:52:15,098 [Worker-69: Launching JunitMaven (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven
+2021-10-19 10:52:15,100 [Worker-69: Launching JunitMaven (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2021-10-19 10:55:57,270 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:55:57,273 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:55:57,273 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:55:57,275 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:55:58,317 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:55:58,319 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:55:58,320 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:55:58,320 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 10:58:57,979 [Worker-68: Launching Executing test in _home_e20180003950_Bureau_HAI501I_TP3_JunitMaven_JunitMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven
+2021-10-19 10:58:57,980 [Worker-68: Launching Executing test in _home_e20180003950_Bureau_HAI501I_TP3_JunitMaven_JunitMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2021-10-19 10:59:02,561 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:59:02,564 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 10:59:02,567 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 10:59:02,569 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 11:02:17,458 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 11:02:17,459 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 11:02:17,461 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 11:02:17,463 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 11:02:23,144 [Worker-71: Launching Executing test in _home_e20180003950_Bureau_HAI501I_TP3_JunitMaven_JunitMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven
+2021-10-19 11:02:23,145 [Worker-71: Launching Executing test in _home_e20180003950_Bureau_HAI501I_TP3_JunitMaven_JunitMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2021-10-19 11:02:27,173 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 11:02:27,174 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 11:02:27,176 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 11:02:27,178 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 11:02:41,885 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 11:02:41,886 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 11:02:41,887 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 11:02:41,887 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 11:02:52,373 [Worker-77: Launching Executing test in _home_e20180003950_Bureau_HAI501I_TP3_JunitMaven_JunitMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven
+2021-10-19 11:02:52,374 [Worker-77: Launching Executing test in _home_e20180003950_Bureau_HAI501I_TP3_JunitMaven_JunitMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2021-10-19 11:02:55,613 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 11:02:55,614 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 11:02:55,618 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 11:02:55,620 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 11:04:32,436 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 11:04:32,438 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 11:04:32,442 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 11:04:32,444 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 11:04:37,913 [Worker-68: Launching Executing test in _home_e20180003950_Bureau_HAI501I_TP3_JunitMaven_JunitMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven
+2021-10-19 11:04:37,914 [Worker-68: Launching Executing test in _home_e20180003950_Bureau_HAI501I_TP3_JunitMaven_JunitMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2021-10-19 11:04:41,914 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 11:04:41,915 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 11:04:41,917 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 11:04:41,919 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 11:04:49,256 [Worker-68: Launching JunitMaven (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven
+2021-10-19 11:04:49,258 [Worker-68: Launching JunitMaven (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2021-10-19 11:04:58,257 [Worker-80: Launching Executing install in _home_e20180003950_Bureau_HAI501I_TP3_JunitMaven_JunitMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven
+2021-10-19 11:04:58,258 [Worker-80: Launching Executing install in _home_e20180003950_Bureau_HAI501I_TP3_JunitMaven_JunitMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-10-19 11:05:02,713 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 11:05:02,715 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 11:05:02,717 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 11:05:02,720 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 11:05:13,997 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2021-10-19 11:05:21,551 [Worker-81: Launching JunitMaven (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven
+2021-10-19 11:05:21,553 [Worker-81: Launching JunitMaven (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2021-10-19 11:05:38,901 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 11:05:38,903 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 11:05:38,905 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 11:05:38,905 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 11:05:39,916 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 11:05:39,918 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 11:05:39,922 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 11:05:39,923 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-10-19 11:08:57,704 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 11:08:57,706 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/main/resources
+2021-10-19 11:08:57,710 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 11:08:57,710 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/e20180003950/Bureau/HAI501I/TP3/JunitMaven/JunitMaven/src/test/resources
+2021-11-09 08:09:51,808 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-11-09 08:11:21,561 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
